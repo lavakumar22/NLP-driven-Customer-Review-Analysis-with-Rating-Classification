@@ -4,6 +4,9 @@
 ## Overview
 This repository contains code for a data science project aimed at improving customer satisfaction in the airline industry. The project focuses on analyzing and understanding customer feedback from individual reviews using machine learning and natural language processing (NLP) techniques.
 
+Dataset [Open](https://github.com/lavakumar22/NLP-driven-Customer-Review-Analysis-with-Rating-Classification/blob/main/data_airline_reviews.xlsx)
+
+
 ## Key Features
 - **Data Processing and Cleaning:** Utilized Python for data cleaning, handling missing values, and transforming data for analysis. Employed techniques such as normalization and standardization to prepare the dataset for modeling.
 - **Feature Engineering:** Engineered new features from existing ones to enhance the predictive power of the models. Used domain knowledge and statistical methods to create relevant features.
